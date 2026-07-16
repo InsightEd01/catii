@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "home": {
+      "title": "catii – Katzenpflege in St. Gallen",
+      "description": "Liebevolle Katzenpflege in St. Gallen: Grooming & Wellness, Katzensitting mit Hausbesuchen, smarte Katzenhäuser mit Monitoring und Gesundheits-Testkits für Ihre Katze."
+    },
+    "services": {
+      "title": "Leistungen – catii St. Gallen",
+      "description": "Unsere Leistungen: Pflege & Wellness, Katzensitting & Hausbesuche, smarte catii Homes mit Kamera-Monitoring sowie Gesundheitsvorsorge mit Testkits."
+    },
+    "pricing": {
+      "title": "Preise – catii St. Gallen",
+      "description": "Transparente Preise für Katzenpflege, Katzensitting, smarte Katzenhäuser und Gesundheits-Testkits in St. Gallen."
+    },
+    "about": {
+      "title": "Über uns – catii St. Gallen",
+      "description": "Lernen Sie catii kennen: Ihr Team für moderne, liebevolle Katzenbetreuung in St. Gallen."
+    },
+    "contact": {
+      "title": "Kontakt – catii St. Gallen",
+      "description": "Kontaktieren Sie catii in St. Gallen – wir melden uns innerhalb von 24 Stunden."
+    },
+    "imprint": { "title": "Impressum – catii" },
+    "privacy": { "title": "Datenschutz – catii" }
+  },
+  "nav": {
+    "home": "Start",
+    "services": "Leistungen",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "cta": "Termin anfragen"
+  },
+  "hero": {
+    "badge": "Katzenpflege in St. Gallen",
+    "title": "Damit sich Ihre Katze rundum zuhause fühlt.",
+    "subtitle": "Grooming, Sitting, smarte Katzenhäuser und Gesundheitsvorsorge – alles aus einer Hand, mit viel Herz.",
+    "cta": "Termin anfragen",
+    "ctaSecondary": "Leistungen entdecken",
+    "scrollHint": "Scrollen, um die Geschichte zu sehen",
+    "loading": "Lade Animation…",
+    "beats": {
+      "window": {
+        "kicker": "Willkommen bei catii",
+        "title": "Jede Katze hat ihre eigene Welt.",
+        "text": "Wir nehmen uns Zeit, sie zu verstehen – zuhause bei Ihnen oder bei uns in St. Gallen."
+      },
+      "care": {
+        "kicker": "Pflege & Wellness",
+        "title": "Gepflegt von Kopf bis Schwanzspitze.",
+        "text": "Sanftes Bürsten, Krallenpflege und Wellness – stressfrei und mit viel Geduld."
+      },
+      "play": {
+        "kicker": "Sitting & Hausbesuche",
+        "title": "Spiel, Futter und Gesellschaft – auch wenn Sie weg sind.",
+        "text": "Unsere Katzensitter besuchen Ihre Katze zuhause: füttern, spielen, schmusen."
+      },
+      "rest": {
+        "kicker": "Smarte catii Homes & Gesundheit",
+        "title": "Sicher schlafen. Gesund bleiben.",
+        "text": "Smarte Katzenhäuser mit Monitoring und Testkits für die Vorsorge – Ruhe für Ihre Katze, Gewissheit für Sie."
+      }
+    }
+  },
+  "servicesTeaser": {
+    "kicker": "Unsere Leistungen",
+    "title": "Alles, was Ihre Katze braucht.",
+    "more": "Mehr erfahren"
+  },
+  "services": {
+    "kicker": "Leistungen",
+    "title": "Rundum-Betreuung für Ihre Katze.",
+    "intro": "Von der Fellpflege bis zur Gesundheitsvorsorge: catii verbindet liebevolle Betreuung mit moderner Technik – mitten in St. Gallen.",
+    "grooming": {
+      "title": "Pflege & Wellness",
+      "teaser": "Sanftes Grooming für ein glänzendes Fell und entspannte Katzen.",
+      "description": "Unser Grooming ist auf das Tempo Ihrer Katze abgestimmt: kurze Pausen, ruhige Hände, keine Fliessbandarbeit. Vom Entfilzen bis zur Krallenpflege – Ihre Katze verlässt uns entspannter, als sie gekommen ist.",
+      "features": [
+        "Bürsten & Entfilzen",
+        "Krallen- und Ohrenpflege",
+        "Hygiene- und Teilschur",
+        "Wellness für Senioren-Katzen"
+      ]
+    },
+    "sitting": {
+      "title": "Katzensitting & Hausbesuche",
+      "teaser": "Zuverlässige Besuche bei Ihnen zuhause – Futter, Spiel und Zuwendung.",
+      "description": "Katzen bleiben am liebsten in ihrer gewohnten Umgebung. Unsere Sitter kommen zu Ihnen nach Hause: füttern, frisches Wasser, Katzentoilette, Spielzeit – und auf Wunsch ein tägliches Foto-Update.",
+      "features": [
+        "1–2 Besuche pro Tag",
+        "Futter, Wasser & Katzentoilette",
+        "Spiel- und Schmusezeit",
+        "Foto-Update nach jedem Besuch"
+      ]
+    },
+    "smartHome": {
+      "title": "Smarte catii Homes",
+      "teaser": "Ein sicheres Zuhause für Ihre Katze – mit Kamera und Monitoring.",
+      "description": "Unsere catii Homes sind hochwertige Katzenhäuser mit integriertem Monitoring: Kamera, Temperatur- und Aktivitätssensoren. Sie sehen jederzeit auf dem Handy, wie es Ihrer Katze geht – ideal für Balkon, Garten oder als Rückzugsort in der Wohnung.",
+      "features": [
+        "Integrierte Kamera mit App-Zugriff",
+        "Temperatur- & Aktivitätssensoren",
+        "Wetterfeste, langlebige Materialien",
+        "Aufbau & Einrichtung durch uns"
+      ]
+    },
+    "health": {
+      "title": "Gesundheit & Testkits",
+      "teaser": "Vorsorge leicht gemacht – mit Testkits für zuhause.",
+      "description": "Früh erkennen statt spät behandeln: Unsere Testkits prüfen unter anderem Nieren- und Harnwerte bequem zuhause. Bei Auffälligkeiten beraten wir Sie persönlich und vermitteln bei Bedarf an Tierärzte in der Region.",
+      "features": [
+        "Testkits für Nieren- & Harnwerte",
+        "Einfache Anwendung zuhause",
+        "Persönliche Besprechung der Ergebnisse",
+        "Vermittlung an Tierärzte in St. Gallen"
+      ]
+    }
+  },
+  "why": {
+    "kicker": "Warum catii",
+    "title": "Mit Herz und Verstand.",
+    "items": {
+      "local": {
+        "title": "Lokal in St. Gallen",
+        "text": "Kurze Wege, persönliche Betreuung und ein Team, das Ihre Katze beim Namen kennt."
+      },
+      "gentle": {
+        "title": "Stressfreie Pflege",
+        "text": "Wir arbeiten im Tempo Ihrer Katze – ohne Zwang, ohne Hektik."
+      },
+      "tech": {
+        "title": "Moderne Technik",
+        "text": "Monitoring und Testkits geben Ihnen Gewissheit, wenn Sie nicht da sind."
+      }
+    }
+  },
+  "ctaBand": {
+    "title": "Bereit für entspannte Katzentage?",
+    "text": "Erzählen Sie uns von Ihrer Katze – wir melden uns innerhalb von 24 Stunden.",
+    "button": "Jetzt Kontakt aufnehmen"
+  },
+  "pricing": {
+    "kicker": "Preise",
+    "title": "Transparent und fair.",
+    "intro": "Alle Preise in CHF inkl. MwSt. Für individuelle Wünsche erstellen wir gerne eine persönliche Offerte.",
+    "note": "Preise sind Richtwerte – die definitiven Preise besprechen wir gemeinsam mit Ihnen.",
+    "from": "ab",
+    "groups": {
+      "grooming": {
+        "title": "Pflege & Wellness",
+        "rows": [
+          { "name": "Bürsten & Entfilzen (bis 60 Min.)", "price": "60" },
+          { "name": "Krallen- & Ohrenpflege", "price": "35" },
+          { "name": "Hygiene-/Teilschur", "price": "80" },
+          { "name": "Wellness-Paket komplett", "price": "120" }
+        ]
+      },
+      "sitting": {
+        "title": "Katzensitting & Hausbesuche",
+        "rows": [
+          { "name": "Hausbesuch (30 Min.)", "price": "35" },
+          { "name": "Hausbesuch (60 Min.)", "price": "55" },
+          { "name": "2 Besuche pro Tag", "price": "90" },
+          { "name": "Wochenend-Zuschlag", "price": "10" }
+        ]
+      },
+      "smartHome": {
+        "title": "Smarte catii Homes",
+        "rows": [
+          { "name": "catii Home Indoor", "price": "490" },
+          { "name": "catii Home Outdoor (wetterfest)", "price": "790" },
+          { "name": "Aufbau & Einrichtung", "price": "120" }
+        ]
+      },
+      "health": {
+        "title": "Gesundheit & Testkits",
+        "rows": [
+          { "name": "Testkit Nieren- & Harnwerte", "price": "49" },
+          { "name": "Testkit Komplett-Check", "price": "89" },
+          { "name": "Ergebnis-Besprechung (30 Min.)", "price": "40" }
+        ]
+      }
+    }
+  },
+  "about": {
+    "kicker": "Über uns",
+    "title": "Aus Liebe zu Katzen.",
+    "story1": "catii ist in St. Gallen entstanden – aus der Überzeugung, dass Katzenpflege mehr sein kann als ein Pflichttermin. Wir verbinden liebevolle, geduldige Betreuung mit moderner Technik, damit es Katzen und ihren Menschen gut geht.",
+    "story2": "Ob Grooming, Sitting, ein smartes catii Home oder ein Gesundheits-Testkit: Bei uns steht immer das Wohl Ihrer Katze an erster Stelle. Wir nehmen uns Zeit, hören zu und finden gemeinsam mit Ihnen die beste Lösung.",
+    "values": {
+      "title": "Unsere Werte",
+      "items": [
+        { "title": "Geduld", "text": "Jede Katze bestimmt ihr eigenes Tempo – wir passen uns an." },
+        { "title": "Vertrauen", "text": "Transparenz in allem, was wir tun. Vom Preis bis zum Foto-Update." },
+        { "title": "Nähe", "text": "Verwurzelt in St. Gallen, persönlich erreichbar, ohne Warteschleife." }
+      ]
+    },
+    "region": {
+      "title": "Unser Einzugsgebiet",
+      "text": "Wir betreuen Katzen in der Stadt St. Gallen und Umgebung – darunter Gossau, Herisau, Wittenbach, Gaiserwald und Speicher. Ihr Ort ist nicht dabei? Fragen Sie uns einfach."
+    }
+  },
+  "contact": {
+    "kicker": "Kontakt",
+    "title": "Erzählen Sie uns von Ihrer Katze.",
+    "intro": "Füllen Sie das Formular aus – wir melden uns innerhalb von 24 Stunden. Oder schreiben Sie uns direkt an hallo@catii.ch.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail",
+      "service": "Gewünschte Leistung",
+      "servicePlaceholder": "Bitte wählen",
+      "serviceOptions": {
+        "grooming": "Pflege & Wellness",
+        "sitting": "Katzensitting & Hausbesuche",
+        "smartHome": "Smartes catii Home",
+        "health": "Gesundheit & Testkits",
+        "other": "Etwas anderes"
+      },
+      "message": "Ihre Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von Ihrer Katze: Name, Alter, was sie braucht…",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet…",
+      "success": "Vielen Dank! Ihre Nachricht ist bei uns – wir melden uns innerhalb von 24 Stunden.",
+      "error": "Das hat leider nicht geklappt. Bitte versuchen Sie es erneut oder schreiben Sie an hallo@catii.ch.",
+      "validation": {
+        "name": "Bitte geben Sie Ihren Namen an.",
+        "email": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+        "message": "Bitte schreiben Sie uns eine kurze Nachricht."
+      }
+    },
+    "info": {
+      "title": "So erreichen Sie uns",
+      "addressLabel": "Adresse",
+      "address": "catii Katzenpflege\nMusterstrasse 1\n9000 St. Gallen",
+      "emailLabel": "E-Mail",
+      "email": "hallo@catii.ch",
+      "hoursLabel": "Erreichbarkeit",
+      "hours": "Mo–Sa, 8–18 Uhr"
+    }
+  },
+  "footer": {
+    "tagline": "Moderne Katzenpflege in St. Gallen – mit Herz und Technik.",
+    "navTitle": "Seiten",
+    "legalTitle": "Rechtliches",
+    "contactTitle": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "legal": {
+    "imprint": {
+      "title": "Impressum",
+      "body": "catii Katzenpflege\nMusterstrasse 1\n9000 St. Gallen\nSchweiz\n\nE-Mail: hallo@catii.ch\n\nVertretungsberechtigte Person: [Name eintragen]\nHandelsregister: [falls vorhanden eintragen]\nUID: [CHE-Nummer eintragen]"
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "body": "Diese Website erhebt personenbezogene Daten nur, wenn Sie uns diese über das Kontaktformular freiwillig mitteilen (Name, E-Mail-Adresse, Nachricht). Wir verwenden diese Daten ausschliesslich zur Bearbeitung Ihrer Anfrage und geben sie nicht an Dritte weiter.\n\nVerantwortliche Stelle: catii Katzenpflege, Musterstrasse 1, 9000 St. Gallen, hallo@catii.ch.\n\nSie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer Daten. Wenden Sie sich dazu an die oben genannte Adresse.\n\n[Diesen Text vor dem Livegang rechtlich prüfen lassen.]"
+    }
+  },
+  "notFound": {
+    "title": "Diese Seite ist auf Samtpfoten davongeschlichen.",
+    "text": "Die gesuchte Seite existiert nicht (mehr).",
+    "back": "Zur Startseite"
+  }
+}

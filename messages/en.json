@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "home": {
+      "title": "catii – Cat Care in St. Gallen",
+      "description": "Loving cat care in St. Gallen: grooming & wellness, cat sitting with home visits, smart monitored cat homes and health test kits for your cat."
+    },
+    "services": {
+      "title": "Services – catii St. Gallen",
+      "description": "Our services: grooming & wellness, cat sitting & home visits, smart catii Homes with camera monitoring, and preventive health care with test kits."
+    },
+    "pricing": {
+      "title": "Pricing – catii St. Gallen",
+      "description": "Transparent pricing for cat grooming, cat sitting, smart cat homes and health test kits in St. Gallen."
+    },
+    "about": {
+      "title": "About us – catii St. Gallen",
+      "description": "Meet catii: your team for modern, loving cat care in St. Gallen."
+    },
+    "contact": {
+      "title": "Contact – catii St. Gallen",
+      "description": "Get in touch with catii in St. Gallen – we reply within 24 hours."
+    },
+    "imprint": { "title": "Imprint – catii" },
+    "privacy": { "title": "Privacy Policy – catii" }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Request appointment"
+  },
+  "hero": {
+    "badge": "Cat care in St. Gallen",
+    "title": "So your cat feels completely at home.",
+    "subtitle": "Grooming, sitting, smart cat homes and preventive health care – all from one team, with a lot of heart.",
+    "cta": "Request appointment",
+    "ctaSecondary": "Explore services",
+    "scrollHint": "Scroll to see the story",
+    "loading": "Loading animation…",
+    "beats": {
+      "window": {
+        "kicker": "Welcome to catii",
+        "title": "Every cat has a world of its own.",
+        "text": "We take the time to understand it – at your home or with us in St. Gallen."
+      },
+      "care": {
+        "kicker": "Grooming & Wellness",
+        "title": "Cared for from ears to tail tip.",
+        "text": "Gentle brushing, claw care and wellness – stress-free and with plenty of patience."
+      },
+      "play": {
+        "kicker": "Sitting & Home Visits",
+        "title": "Play, food and company – even while you're away.",
+        "text": "Our cat sitters visit your cat at home: feeding, playing, cuddling."
+      },
+      "rest": {
+        "kicker": "Smart catii Homes & Health",
+        "title": "Sleep safely. Stay healthy.",
+        "text": "Smart cat homes with monitoring and test kits for prevention – peace for your cat, peace of mind for you."
+      }
+    }
+  },
+  "servicesTeaser": {
+    "kicker": "Our services",
+    "title": "Everything your cat needs.",
+    "more": "Learn more"
+  },
+  "services": {
+    "kicker": "Services",
+    "title": "All-round care for your cat.",
+    "intro": "From coat care to preventive health checks: catii combines loving care with modern technology – right in St. Gallen.",
+    "grooming": {
+      "title": "Grooming & Wellness",
+      "teaser": "Gentle grooming for a shiny coat and a relaxed cat.",
+      "description": "Our grooming follows your cat's pace: short breaks, calm hands, no assembly-line work. From dematting to claw care – your cat leaves us more relaxed than it arrived.",
+      "features": [
+        "Brushing & dematting",
+        "Claw and ear care",
+        "Hygiene and partial trims",
+        "Wellness for senior cats"
+      ]
+    },
+    "sitting": {
+      "title": "Cat Sitting & Home Visits",
+      "teaser": "Reliable visits at your home – food, play and affection.",
+      "description": "Cats prefer to stay in their familiar surroundings. Our sitters come to your home: feeding, fresh water, litter box, play time – and a daily photo update if you like.",
+      "features": [
+        "1–2 visits per day",
+        "Food, water & litter box",
+        "Play and cuddle time",
+        "Photo update after every visit"
+      ]
+    },
+    "smartHome": {
+      "title": "Smart catii Homes",
+      "teaser": "A safe home for your cat – with camera and monitoring.",
+      "description": "Our catii Homes are high-quality cat houses with built-in monitoring: camera, temperature and activity sensors. Check on your cat from your phone at any time – ideal for balconies, gardens or as a retreat inside your flat.",
+      "features": [
+        "Built-in camera with app access",
+        "Temperature & activity sensors",
+        "Weatherproof, durable materials",
+        "Assembly & setup by our team"
+      ]
+    },
+    "health": {
+      "title": "Health & Test Kits",
+      "teaser": "Prevention made easy – with test kits for home use.",
+      "description": "Detect early instead of treating late: our test kits check kidney and urinary values, among others, comfortably at home. If anything looks off, we advise you personally and can refer you to veterinarians in the region.",
+      "features": [
+        "Test kits for kidney & urinary values",
+        "Easy to use at home",
+        "Personal review of your results",
+        "Referral to vets in St. Gallen"
+      ]
+    }
+  },
+  "why": {
+    "kicker": "Why catii",
+    "title": "With heart and mind.",
+    "items": {
+      "local": {
+        "title": "Local in St. Gallen",
+        "text": "Short distances, personal care and a team that knows your cat by name."
+      },
+      "gentle": {
+        "title": "Stress-free grooming",
+        "text": "We work at your cat's pace – no force, no rush."
+      },
+      "tech": {
+        "title": "Modern technology",
+        "text": "Monitoring and test kits give you peace of mind when you're not around."
+      }
+    }
+  },
+  "ctaBand": {
+    "title": "Ready for relaxed cat days?",
+    "text": "Tell us about your cat – we'll get back to you within 24 hours.",
+    "button": "Get in touch"
+  },
+  "pricing": {
+    "kicker": "Pricing",
+    "title": "Transparent and fair.",
+    "intro": "All prices in CHF incl. VAT. Happy to prepare a personal quote for individual needs.",
+    "note": "Prices are guide values – we'll agree the final price together with you.",
+    "from": "from",
+    "groups": {
+      "grooming": {
+        "title": "Grooming & Wellness",
+        "rows": [
+          { "name": "Brushing & dematting (up to 60 min)", "price": "60" },
+          { "name": "Claw & ear care", "price": "35" },
+          { "name": "Hygiene/partial trim", "price": "80" },
+          { "name": "Complete wellness package", "price": "120" }
+        ]
+      },
+      "sitting": {
+        "title": "Cat Sitting & Home Visits",
+        "rows": [
+          { "name": "Home visit (30 min)", "price": "35" },
+          { "name": "Home visit (60 min)", "price": "55" },
+          { "name": "2 visits per day", "price": "90" },
+          { "name": "Weekend surcharge", "price": "10" }
+        ]
+      },
+      "smartHome": {
+        "title": "Smart catii Homes",
+        "rows": [
+          { "name": "catii Home Indoor", "price": "490" },
+          { "name": "catii Home Outdoor (weatherproof)", "price": "790" },
+          { "name": "Assembly & setup", "price": "120" }
+        ]
+      },
+      "health": {
+        "title": "Health & Test Kits",
+        "rows": [
+          { "name": "Kidney & urinary test kit", "price": "49" },
+          { "name": "Complete check test kit", "price": "89" },
+          { "name": "Results consultation (30 min)", "price": "40" }
+        ]
+      }
+    }
+  },
+  "about": {
+    "kicker": "About us",
+    "title": "Out of love for cats.",
+    "story1": "catii was born in St. Gallen – out of the conviction that cat care can be more than a chore appointment. We combine loving, patient care with modern technology so that cats and their humans are both well.",
+    "story2": "Whether grooming, sitting, a smart catii Home or a health test kit: your cat's wellbeing always comes first. We take time, listen, and find the best solution together with you.",
+    "values": {
+      "title": "Our values",
+      "items": [
+        { "title": "Patience", "text": "Every cat sets its own pace – we adapt." },
+        { "title": "Trust", "text": "Transparency in everything we do. From pricing to photo updates." },
+        { "title": "Closeness", "text": "Rooted in St. Gallen, personally reachable, no waiting loops." }
+      ]
+    },
+    "region": {
+      "title": "Our service area",
+      "text": "We care for cats in the city of St. Gallen and surroundings – including Gossau, Herisau, Wittenbach, Gaiserwald and Speicher. Your town not listed? Just ask us."
+    }
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Tell us about your cat.",
+    "intro": "Fill in the form and we'll get back to you within 24 hours. Or write to us directly at hallo@catii.ch.",
+    "form": {
+      "name": "Your name",
+      "email": "Email",
+      "service": "Service you're interested in",
+      "servicePlaceholder": "Please choose",
+      "serviceOptions": {
+        "grooming": "Grooming & Wellness",
+        "sitting": "Cat Sitting & Home Visits",
+        "smartHome": "Smart catii Home",
+        "health": "Health & Test Kits",
+        "other": "Something else"
+      },
+      "message": "Your message",
+      "messagePlaceholder": "Tell us about your cat: name, age, what it needs…",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "success": "Thank you! We've received your message and will reply within 24 hours.",
+      "error": "That didn't work, sorry. Please try again or email hallo@catii.ch.",
+      "validation": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email address.",
+        "message": "Please write us a short message."
+      }
+    },
+    "info": {
+      "title": "How to reach us",
+      "addressLabel": "Address",
+      "address": "catii Cat Care\nMusterstrasse 1\n9000 St. Gallen",
+      "emailLabel": "Email",
+      "email": "hallo@catii.ch",
+      "hoursLabel": "Availability",
+      "hours": "Mon–Sat, 8am–6pm"
+    }
+  },
+  "footer": {
+    "tagline": "Modern cat care in St. Gallen – with heart and technology.",
+    "navTitle": "Pages",
+    "legalTitle": "Legal",
+    "contactTitle": "Contact",
+    "imprint": "Imprint",
+    "privacy": "Privacy",
+    "rights": "All rights reserved."
+  },
+  "legal": {
+    "imprint": {
+      "title": "Imprint",
+      "body": "catii Cat Care\nMusterstrasse 1\n9000 St. Gallen\nSwitzerland\n\nEmail: hallo@catii.ch\n\nAuthorized representative: [add name]\nCommercial register: [add if applicable]\nUID: [add CHE number]"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "body": "This website only collects personal data that you voluntarily provide via the contact form (name, email address, message). We use this data exclusively to process your inquiry and do not pass it on to third parties.\n\nResponsible entity: catii Cat Care, Musterstrasse 1, 9000 St. Gallen, hallo@catii.ch.\n\nYou have the right to access, correct or delete your data at any time. Please contact the address above.\n\n[Have this text legally reviewed before going live.]"
+    }
+  },
+  "notFound": {
+    "title": "This page tiptoed away on velvet paws.",
+    "text": "The page you're looking for doesn't exist (anymore).",
+    "back": "Back to home"
+  }
+}

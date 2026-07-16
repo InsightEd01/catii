@@ -1,0 +1,15 @@
+{
+  "count": 138,
+  "pad": 3,
+  "basePath": "/frames",
+  "variants": [
+    {
+      "name": "lg",
+      "width": 1440
+    },
+    {
+      "name": "sm",
+      "width": 828
+    }
+  ]
+}
