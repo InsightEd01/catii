@@ -20,7 +20,7 @@ export default function Logo({ inverted = false }: { inverted?: boolean }) {
           inverted ? "text-cream" : "text-ink"
         }`}
       >
-        catii
+        Miauu
       </span>
     </span>
   );

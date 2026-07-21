@@ -30,3 +30,4 @@ yarn-error.log*
 
 # raw animation source frames (12 MB of JPGs; optimized WebP lives in public/frames)
 /FRAME OF CAT ANIMATION/
+miauu_ch_offline/

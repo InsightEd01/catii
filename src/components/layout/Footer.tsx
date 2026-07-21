@@ -64,23 +64,23 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="bg-cream px-4 pb-6 pt-4 sm:px-6">
+    <footer className="bg-[#060b14] px-4 pb-6 pt-4 sm:px-6">
       <div
         ref={cardRef}
-        className="relative overflow-hidden rounded-[2.5rem] bg-ink text-cream/80"
+        className="relative overflow-hidden rounded-[2.5rem] border border-white/10 bg-[#0b1220] text-slate-300"
       >
         <div className="relative z-10 grid grid-cols-2 gap-x-6 gap-y-10 px-8 pt-12 sm:grid-cols-4 sm:px-12 sm:pt-16 md:grid-cols-6">
           <div data-reveal className="col-span-2 sm:col-span-4 md:col-span-2">
-            <Link href="/" aria-label="catii – Home">
+            <Link href="/" aria-label="Miauu – Home">
               <Logo inverted />
             </Link>
-            <p className="mt-4 max-w-xs text-sm leading-relaxed text-cream/60">
+            <p className="mt-4 max-w-xs text-sm leading-relaxed text-slate-400">
               {t("tagline")}
             </p>
           </div>
 
           <div data-reveal>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-cream/40">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-sky-300/70">
               {t("navTitle")}
             </h3>
             <ul className="mt-4 space-y-2.5">
@@ -88,7 +88,7 @@ export default function Footer() {
                 <li key={item.key}>
                   <Link
                     href={item.href}
-                    className="text-sm text-cream/75 transition-colors hover:text-cream"
+                    className="text-sm text-slate-300 transition-colors hover:text-white"
                   >
                     {tNav(item.key)}
                   </Link>
@@ -98,7 +98,7 @@ export default function Footer() {
           </div>
 
           <div data-reveal>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-cream/40">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-sky-300/70">
               {tServices("kicker")}
             </h3>
             <ul className="mt-4 space-y-2.5">
@@ -106,7 +106,7 @@ export default function Footer() {
                 <li key={svc.key}>
                   <Link
                     href={{ pathname: "/services", hash: svc.key }}
-                    className="text-sm text-cream/75 transition-colors hover:text-cream"
+                    className="text-sm text-slate-300 transition-colors hover:text-white"
                   >
                     {tServices(`${svc.key}.title`)}
                   </Link>
@@ -116,14 +116,14 @@ export default function Footer() {
           </div>
 
           <div data-reveal>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-cream/40">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-sky-300/70">
               {t("legalTitle")}
             </h3>
             <ul className="mt-4 space-y-2.5">
               <li>
                 <Link
                   href="/imprint"
-                  className="text-sm text-cream/75 transition-colors hover:text-cream"
+                  className="text-sm text-slate-300 transition-colors hover:text-white"
                 >
                   {t("imprint")}
                 </Link>
@@ -131,7 +131,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/privacy"
-                  className="text-sm text-cream/75 transition-colors hover:text-cream"
+                  className="text-sm text-slate-300 transition-colors hover:text-white"
                 >
                   {t("privacy")}
                 </Link>
@@ -140,17 +140,17 @@ export default function Footer() {
           </div>
 
           <div data-reveal>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-cream/40">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-sky-300/70">
               {t("contactTitle")}
             </h3>
-            <ul className="mt-4 space-y-2.5 text-sm text-cream/75">
+            <ul className="mt-4 space-y-2.5 text-sm text-slate-300">
               <li className="whitespace-pre-line leading-relaxed">
                 {tContact("address")}
               </li>
               <li>
                 <a
                   href={`mailto:${tContact("email")}`}
-                  className="transition-colors hover:text-cream"
+                  className="transition-colors hover:text-white"
                 >
                   {tContact("email")}
                 </a>
@@ -161,10 +161,10 @@ export default function Footer() {
 
         <div
           data-reveal
-          className="relative z-10 mt-12 flex flex-col gap-2 border-t border-cream/10 px-8 py-6 text-xs text-cream/40 sm:flex-row sm:items-center sm:justify-between sm:px-12 md:mt-16"
+          className="relative z-10 mt-12 flex flex-col gap-2 border-t border-white/10 px-8 py-6 text-xs text-slate-500 sm:flex-row sm:items-center sm:justify-between sm:px-12 md:mt-16"
         >
           <span>
-            © {new Date().getFullYear()} catii, St. Gallen. {t("rights")}
+            © {new Date().getFullYear()} Miauu, St. Gallen. {t("rights")}
           </span>
           <span>St. Gallen, Schweiz</span>
         </div>
@@ -175,9 +175,9 @@ export default function Footer() {
         >
           <span
             data-wordmark
-            className="inline-block animate-[catii-shimmer_7s_ease-in-out_infinite] bg-gradient-to-r from-clay via-moss to-clay bg-[length:200%_100%] bg-clip-text font-display text-[26vw] font-bold tracking-tight text-transparent sm:text-[14vw]"
+            className="inline-block animate-[miauu-shimmer_7s_ease-in-out_infinite] bg-gradient-to-r from-sky-500 via-sky-200 to-sky-500 bg-[length:200%_100%] bg-clip-text font-display text-[26vw] font-bold tracking-tight text-transparent sm:text-[14vw]"
           >
-            catii
+            Miauu
           </span>
         </div>
       </div>

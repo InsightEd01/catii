@@ -1,27 +1,27 @@
 {
   "meta": {
     "home": {
-      "title": "catii – Cat Care in St. Gallen",
+      "title": "Miauu – Cat Care in St. Gallen",
       "description": "Loving cat care in St. Gallen: grooming & wellness, cat sitting with home visits, smart monitored cat homes and health test kits for your cat."
     },
     "services": {
-      "title": "Services – catii St. Gallen",
-      "description": "Our services: grooming & wellness, cat sitting & home visits, smart catii Homes with camera monitoring, and preventive health care with test kits."
+      "title": "Services – Miauu St. Gallen",
+      "description": "Our services: grooming & wellness, cat sitting & home visits, smart Miauu Homes with camera monitoring, and preventive health care with test kits."
     },
     "pricing": {
-      "title": "Pricing – catii St. Gallen",
+      "title": "Pricing – Miauu St. Gallen",
       "description": "Transparent pricing for cat grooming, cat sitting, smart cat homes and health test kits in St. Gallen."
     },
     "about": {
-      "title": "About us – catii St. Gallen",
-      "description": "Meet catii: your team for modern, loving cat care in St. Gallen."
+      "title": "About us – Miauu St. Gallen",
+      "description": "Meet Miauu: your team for modern, loving cat care in St. Gallen."
     },
     "contact": {
-      "title": "Contact – catii St. Gallen",
-      "description": "Get in touch with catii in St. Gallen – we reply within 24 hours."
+      "title": "Contact – Miauu St. Gallen",
+      "description": "Get in touch with Miauu in St. Gallen – we reply within 24 hours."
     },
-    "imprint": { "title": "Imprint – catii" },
-    "privacy": { "title": "Privacy Policy – catii" }
+    "imprint": { "title": "Imprint – Miauu" },
+    "privacy": { "title": "Privacy Policy – Miauu" }
   },
   "nav": {
     "home": "Home",
@@ -41,7 +41,7 @@
     "loading": "Loading animation…",
     "beats": {
       "window": {
-        "kicker": "Welcome to catii",
+        "kicker": "Welcome to Miauu",
         "title": "Every cat has a world of its own.",
         "text": "We take the time to understand it – at your home or with us in St. Gallen."
       },
@@ -56,7 +56,7 @@
         "text": "Our cat sitters visit your cat at home: feeding, playing, cuddling."
       },
       "rest": {
-        "kicker": "Smart catii Homes & Health",
+        "kicker": "Smart Miauu Homes & Health",
         "title": "Sleep safely. Stay healthy.",
         "text": "Smart cat homes with monitoring and test kits for prevention – peace for your cat, peace of mind for you."
       }
@@ -70,7 +70,7 @@
   "services": {
     "kicker": "Services",
     "title": "All-round care for your cat.",
-    "intro": "From coat care to preventive health checks: catii combines loving care with modern technology – right in St. Gallen.",
+    "intro": "From coat care to preventive health checks: Miauu combines loving care with modern technology – right in St. Gallen.",
     "grooming": {
       "title": "Grooming & Wellness",
       "teaser": "Gentle grooming for a shiny coat and a relaxed cat.",
@@ -94,9 +94,9 @@
       ]
     },
     "smartHome": {
-      "title": "Smart catii Homes",
+      "title": "Smart Miauu Homes",
       "teaser": "A safe home for your cat – with camera and monitoring.",
-      "description": "Our catii Homes are high-quality cat houses with built-in monitoring: camera, temperature and activity sensors. Check on your cat from your phone at any time – ideal for balconies, gardens or as a retreat inside your flat.",
+      "description": "Our Miauu Homes are high-quality cat houses with built-in monitoring: camera, temperature and activity sensors. Check on your cat from your phone at any time – ideal for balconies, gardens or as a retreat inside your flat.",
       "features": [
         "Built-in camera with app access",
         "Temperature & activity sensors",
@@ -117,7 +117,7 @@
     }
   },
   "why": {
-    "kicker": "Why catii",
+    "kicker": "Why Miauu",
     "title": "With heart and mind.",
     "items": {
       "local": {
@@ -165,10 +165,10 @@
         ]
       },
       "smartHome": {
-        "title": "Smart catii Homes",
+        "title": "Smart Miauu Homes",
         "rows": [
-          { "name": "catii Home Indoor", "price": "490" },
-          { "name": "catii Home Outdoor (weatherproof)", "price": "790" },
+          { "name": "Miauu Home Indoor", "price": "490" },
+          { "name": "Miauu Home Outdoor (weatherproof)", "price": "790" },
           { "name": "Assembly & setup", "price": "120" }
         ]
       },
@@ -185,8 +185,8 @@
   "about": {
     "kicker": "About us",
     "title": "Out of love for cats.",
-    "story1": "catii was born in St. Gallen – out of the conviction that cat care can be more than a chore appointment. We combine loving, patient care with modern technology so that cats and their humans are both well.",
-    "story2": "Whether grooming, sitting, a smart catii Home or a health test kit: your cat's wellbeing always comes first. We take time, listen, and find the best solution together with you.",
+    "story1": "Miauu was born in St. Gallen – out of the conviction that cat care can be more than a chore appointment. We combine loving, patient care with modern technology so that cats and their humans are both well.",
+    "story2": "Whether grooming, sitting, a smart Miauu Home or a health test kit: your cat's wellbeing always comes first. We take time, listen, and find the best solution together with you.",
     "values": {
       "title": "Our values",
       "items": [
@@ -203,7 +203,7 @@
   "contact": {
     "kicker": "Contact",
     "title": "Tell us about your cat.",
-    "intro": "Fill in the form and we'll get back to you within 24 hours. Or write to us directly at hallo@catii.ch.",
+    "intro": "Fill in the form and we'll get back to you within 24 hours. Or write to us directly at hallo@miauu.ch.",
     "form": {
       "name": "Your name",
       "email": "Email",
@@ -212,7 +212,7 @@
       "serviceOptions": {
         "grooming": "Grooming & Wellness",
         "sitting": "Cat Sitting & Home Visits",
-        "smartHome": "Smart catii Home",
+        "smartHome": "Smart Miauu Home",
         "health": "Health & Test Kits",
         "other": "Something else"
       },
@@ -221,7 +221,7 @@
       "submit": "Send message",
       "sending": "Sending…",
       "success": "Thank you! We've received your message and will reply within 24 hours.",
-      "error": "That didn't work, sorry. Please try again or email hallo@catii.ch.",
+      "error": "That didn't work, sorry. Please try again or email hallo@miauu.ch.",
       "validation": {
         "name": "Please enter your name.",
         "email": "Please enter a valid email address.",
@@ -231,9 +231,9 @@
     "info": {
       "title": "How to reach us",
       "addressLabel": "Address",
-      "address": "catii Cat Care\nMusterstrasse 1\n9000 St. Gallen",
+      "address": "Miauu Cat Care\nMusterstrasse 1\n9000 St. Gallen",
       "emailLabel": "Email",
-      "email": "hallo@catii.ch",
+      "email": "hallo@miauu.ch",
       "hoursLabel": "Availability",
       "hours": "Mon–Sat, 8am–6pm"
     }
@@ -250,11 +250,11 @@
   "legal": {
     "imprint": {
       "title": "Imprint",
-      "body": "catii Cat Care\nMusterstrasse 1\n9000 St. Gallen\nSwitzerland\n\nEmail: hallo@catii.ch\n\nAuthorized representative: [add name]\nCommercial register: [add if applicable]\nUID: [add CHE number]"
+      "body": "Miauu Cat Care\nMusterstrasse 1\n9000 St. Gallen\nSwitzerland\n\nEmail: hallo@miauu.ch\n\nAuthorized representative: [add name]\nCommercial register: [add if applicable]\nUID: [add CHE number]"
     },
     "privacy": {
       "title": "Privacy Policy",
-      "body": "This website only collects personal data that you voluntarily provide via the contact form (name, email address, message). We use this data exclusively to process your inquiry and do not pass it on to third parties.\n\nResponsible entity: catii Cat Care, Musterstrasse 1, 9000 St. Gallen, hallo@catii.ch.\n\nYou have the right to access, correct or delete your data at any time. Please contact the address above.\n\n[Have this text legally reviewed before going live.]"
+      "body": "This website only collects personal data that you voluntarily provide via the contact form (name, email address, message). We use this data exclusively to process your inquiry and do not pass it on to third parties.\n\nResponsible entity: Miauu Cat Care, Musterstrasse 1, 9000 St. Gallen, hallo@miauu.ch.\n\nYou have the right to access, correct or delete your data at any time. Please contact the address above.\n\n[Have this text legally reviewed before going live.]"
     }
   },
   "notFound": {

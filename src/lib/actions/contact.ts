@@ -34,7 +34,7 @@ export async function sendContactRequest(
     return { status: "error", fieldErrors };
   }
 
-  const to = process.env.CONTACT_TO_EMAIL ?? "hallo@catii.ch";
+  const to = process.env.CONTACT_TO_EMAIL ?? "hallo@miauu.ch";
   const apiKey = process.env.RESEND_API_KEY;
 
   if (!apiKey) {
@@ -52,10 +52,10 @@ export async function sendContactRequest(
     const { Resend } = await import("resend");
     const resend = new Resend(apiKey);
     const { error } = await resend.emails.send({
-      from: process.env.CONTACT_FROM_EMAIL ?? "catii <onboarding@resend.dev>",
+      from: process.env.CONTACT_FROM_EMAIL ?? "Miauu <onboarding@resend.dev>",
       to,
       replyTo: email,
-      subject: `catii contact request — ${name}`,
+      subject: `Miauu contact request — ${name}`,
       text: [
         `Name: ${name}`,
         `Email: ${email}`,

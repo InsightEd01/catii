@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { getPathname } from "@/i18n/navigation";
 import { routing, type AppPathname } from "@/i18n/routing";
 
-const BASE_URL = "https://catii.ch";
+const BASE_URL = "https://miauu.ch";
 
 const PAGES: AppPathname[] = [
   "/",
